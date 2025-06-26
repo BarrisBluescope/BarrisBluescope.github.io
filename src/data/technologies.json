@@ -1,0 +1,184 @@
+{
+  "technologies": [
+    {
+      "id": 1,
+      "name": "React",
+      "quadrant": "Languages & Frameworks",
+      "ring": "Adopt",
+      "description": "A JavaScript library for building user interfaces, particularly web applications.",
+      "isNew": false,
+      "moved": 0
+    },
+    {
+      "id": 2,
+      "name": "TypeScript",
+      "quadrant": "Languages & Frameworks",
+      "ring": "Adopt",
+      "description": "A strongly typed programming language that builds on JavaScript.",
+      "isNew": false,
+      "moved": 0
+    },
+    {
+      "id": 3,
+      "name": "Docker",
+      "quadrant": "Platforms",
+      "ring": "Adopt",
+      "description": "A containerization platform for packaging applications with their dependencies.",
+      "isNew": false,
+      "moved": 0
+    },
+    {
+      "id": 4,
+      "name": "Kubernetes",
+      "quadrant": "Platforms",
+      "ring": "Trial",
+      "description": "An open-source container orchestration platform for automating deployment, scaling, and management.",
+      "isNew": false,
+      "moved": 1
+    },
+    {
+      "id": 5,
+      "name": "GraphQL",
+      "quadrant": "Techniques",
+      "ring": "Trial",
+      "description": "A query language and runtime for APIs that enables clients to request specific data.",
+      "isNew": true,
+      "moved": 0
+    },
+    {
+      "id": 6,
+      "name": "Micro Frontends",
+      "quadrant": "Techniques",
+      "ring": "Assess",
+      "description": "An architectural approach to decompose frontend applications into smaller, manageable pieces.",
+      "isNew": true,
+      "moved": 0
+    },
+    {
+      "id": 7,
+      "name": "Figma",
+      "quadrant": "Tools",
+      "ring": "Adopt",
+      "description": "A collaborative interface design tool for creating, prototyping, and sharing designs.",
+      "isNew": false,
+      "moved": 0
+    },
+    {
+      "id": 8,
+      "name": "Webpack",
+      "quadrant": "Tools",
+      "ring": "Hold",
+      "description": "A module bundler for JavaScript applications.",
+      "isNew": false,
+      "moved": -1
+    },
+    {
+      "id": 9,
+      "name": "Vite",
+      "quadrant": "Tools",
+      "ring": "Adopt",
+      "description": "A fast build tool and development server for modern web projects.",
+      "isNew": false,
+      "moved": 1
+    },
+    {
+      "id": 10,
+      "name": "Svelte",
+      "quadrant": "Languages & Frameworks",
+      "ring": "Assess",
+      "description": "A radical new approach to building user interfaces with compile-time optimizations.",
+      "isNew": true,
+      "moved": 0
+    },
+    {
+      "id": 11,
+      "name": "Serverless",
+      "quadrant": "Platforms",
+      "ring": "Trial",
+      "description": "Cloud computing execution model where cloud providers manage server infrastructure.",
+      "isNew": false,
+      "moved": 0
+    },
+    {
+      "id": 12,
+      "name": "WebAssembly",
+      "quadrant": "Techniques",
+      "ring": "Assess",
+      "description": "A binary instruction format for stack-based virtual machines.",
+      "isNew": true,
+      "moved": 0
+    },
+    {
+      "id": 13,
+      "name": "Microsoft Intune",
+      "quadrant": "Platforms",
+      "ring": "Adopt",
+      "description": "Cloud-based unified endpoint management platform for managing and securing devices across the organization.",
+      "isNew": false,
+      "moved": 0
+    },
+    {
+      "id": 14,
+      "name": "Meta Quest for Business",
+      "quadrant": "Platforms",
+      "ring": "Trial",
+      "description": "Enterprise VR platform for immersive training, collaboration, and productivity applications.",
+      "isNew": true,
+      "moved": 1
+    },
+    {
+      "id": 15,
+      "name": "Meta Horizon Workrooms",
+      "quadrant": "Tools",
+      "ring": "Assess",
+      "description": "Virtual reality collaboration platform for remote meetings and team collaboration in immersive environments.",
+      "isNew": true,
+      "moved": 0
+    },
+    {
+      "id": 16,
+      "name": "Microsoft Endpoint Manager",
+      "quadrant": "Platforms",
+      "ring": "Adopt",
+      "description": "Comprehensive device management solution combining Intune and Configuration Manager for unified endpoint management.",
+      "isNew": false,
+      "moved": 0
+    },
+    {
+      "id": 17,
+      "name": "VMware Workspace ONE",
+      "quadrant": "Platforms",
+      "ring": "Assess",
+      "description": "Digital workspace platform that delivers and manages any app on any device through a single platform.",
+      "isNew": false,
+      "moved": 0
+    },
+    {
+      "id": 18,
+      "name": "Apple Business Manager",
+      "quadrant": "Platforms",
+      "ring": "Trial",
+      "description": "Web-based portal for IT administrators to deploy Apple devices, purchase and distribute apps, and create Managed Apple IDs.",
+      "isNew": false,
+      "moved": 0
+    },
+    {
+      "id": 19,
+      "name": "HoloLens 2",
+      "quadrant": "Platforms",
+      "ring": "Assess",
+      "description": "Mixed reality headset for enterprise applications including remote assistance, training, and visualization.",
+      "isNew": true,
+      "moved": 0
+    },
+    {
+      "id": 20,
+      "name": "Pico Enterprise",
+      "quadrant": "Platforms",
+      "ring": "Assess",
+      "description": "Enterprise VR solution for training, collaboration, and business applications with centralized device management.",
+      "isNew": true,
+      "moved": 0
+    }
+  ]
+}
